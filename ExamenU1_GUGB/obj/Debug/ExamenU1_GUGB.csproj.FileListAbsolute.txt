@@ -1,0 +1,10 @@
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\bin\Debug\ExamenU1_GUGB.exe.config
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\bin\Debug\ExamenU1_GUGB.exe
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\bin\Debug\ExamenU1_GUGB.pdb
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\obj\Debug\ExamenU1_GUGB.csproj.AssemblyReference.cache
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\obj\Debug\ExamenU1_GUGB.Form1.resources
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\obj\Debug\ExamenU1_GUGB.Properties.Resources.resources
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\obj\Debug\ExamenU1_GUGB.csproj.GenerateResource.cache
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\obj\Debug\ExamenU1_GUGB.csproj.CoreCompileInputs.cache
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\obj\Debug\ExamenU1_GUGB.exe
+C:\ITA\ProgrameiChoM 2\ExamenU1_GUGB\ExamenU1_GUGB\obj\Debug\ExamenU1_GUGB.pdb
